@@ -1,0 +1,7 @@
+C:\Users\Meir\source\repos\Cashier\Cashier\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Meir\source\repos\Cashier\Cashier\bin\TypeScriptHTMLApp1.dll
+C:\Users\Meir\source\repos\Cashier\Cashier\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Meir\source\repos\Cashier\Cashier\obj\Debug\Cashier.csprojResolveAssemblyReference.cache
+C:\Users\Meir\source\repos\Cashier\Cashier\obj\Debug\Cashier.csproj.CoreCompileInputs.cache
+C:\Users\Meir\source\repos\Cashier\Cashier\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Meir\source\repos\Cashier\Cashier\obj\Debug\TypeScriptHTMLApp1.pdb
